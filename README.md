@@ -4,7 +4,6 @@ Welcome to my page, my name is Michael Rangel! I'm a freshman at Boise State Uni
 
 ## Interests
 * I like video games
- *  
 * I like anime and manga
 * I like jpop
   * My favorite artist is Ado
