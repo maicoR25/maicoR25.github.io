@@ -10,5 +10,8 @@ Welcome to my page, my name is Michael Rangel! I'm a freshman at Boise State Uni
 * I love computer science a lot :3
   
 ## What are my goals?
-
 I hope to one day either collaborate with a team or work by myself to bring a game to life. I've always been interested in game development and making the systems that games run off of sounds really fun! I'm also interested in graphics programming and I intend to teach myself OpenGL and try to make a simple 3D renderer. It's not going to be easy, but I think I can pull it off!
+
+## Github Profile
+Check out some of my projects on my github profile!
+(https://github.com/maicoR25)[https://github.com/maicoR25]
