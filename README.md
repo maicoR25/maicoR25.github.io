@@ -14,4 +14,4 @@ I hope to one day either collaborate with a team or work by myself to bring a ga
 
 ## Github Profile
 Check out some of my projects on my github profile!
-(https://github.com/maicoR25)[https://github.com/maicoR25]
+https://github.com/maicoR25
